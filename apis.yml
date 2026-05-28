@@ -1,0 +1,32 @@
+aid: coincap
+name: CoinCap
+description: "Real time Cryptocurrency prices through a RESTful API"
+url: https://docs.coincap.io/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Cryptocurrency"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Cryptocurrency
+  - Public APIs
+apis:
+  - name: CoinCap
+    description: "Real time Cryptocurrency prices through a RESTful API"
+    humanURL: https://docs.coincap.io/
+    baseURL: https://docs.coincap.io/
+    tags:
+      - Cryptocurrency
+    properties:
+      - type: Documentation
+        url: https://docs.coincap.io/
+common:
+  - type: Website
+    url: https://docs.coincap.io/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
