@@ -39,7 +39,6 @@ apis:
   - name: CoinCap
     description: "Real time Cryptocurrency prices through a RESTful API"
     humanURL: https://docs.coincap.io/
-    baseURL: https://docs.coincap.io/
     tags:
       - Cryptocurrency
     properties:
